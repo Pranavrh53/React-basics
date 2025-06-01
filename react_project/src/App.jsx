@@ -12,6 +12,7 @@ import Counter from './Counter.jsx';
 import Lol from './Lol.jsx';
 import Colorpicker from './Colorpicker.jsx';
 import Array from './Array.jsx';
+import Updatearray from './Updatearray.jsx'
 
 
 function App() {
@@ -50,6 +51,7 @@ function App() {
      <Colorpicker></Colorpicker>
 
      <Array/>
+     <Updatearray/>
     
 
 
