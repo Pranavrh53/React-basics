@@ -13,6 +13,8 @@ import Lol from './Lol.jsx';
 import Colorpicker from './Colorpicker.jsx';
 import Array from './Array.jsx';
 import Updatearray from './Updatearray.jsx'
+import Useeffecthook from './Useeffecthook.jsx'
+import Dimension from './Dimension.jsx'
 
 
 function App() {
@@ -52,6 +54,9 @@ function App() {
 
      <Array/>
      <Updatearray/>
+     <Useeffecthook/>
+     <Dimension/>
+
     
 
 
