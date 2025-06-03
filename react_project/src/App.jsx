@@ -15,6 +15,8 @@ import Array from './Array.jsx';
 import Updatearray from './Updatearray.jsx'
 import Useeffecthook from './Useeffecthook.jsx'
 import Dimension from './Dimension.jsx'
+import ContextA from './ComponentA.jsx'
+import Ref from './Ref.jsx'
 
 
 function App() {
@@ -56,6 +58,8 @@ function App() {
      <Updatearray/>
      <Useeffecthook/>
      <Dimension/>
+     <ContextA/>
+     <Ref/>
 
     
 

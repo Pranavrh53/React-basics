@@ -118,7 +118,10 @@
   font-size: 10px;
   max-width: 300px;
 }
-
+.box{
+  border: 3px solid;
+  padding: 25px;
+}
  
 
 
